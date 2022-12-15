@@ -1,0 +1,16 @@
+Calculate the average rating of the genre.
+    Read .csv file
+    create list
+    calculate average
+    Use stream
+    iteration
+    compare answer
+
+Things needed:
+Stream, map, list, fileReader, average,
+
+Read .csv file
+    words are already sorted by line break
+    use split(","); to separate words
+    [2] is rating
+    [9] is genre
